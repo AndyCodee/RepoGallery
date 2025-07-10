@@ -15,3 +15,4 @@
 #       if the random_image is set to false, the text card will be shown.
 
 RepoGallery: assets/doc_img/RepoGallery-light.png
+GuessNumber-LCD-Keypad: assets/proj_img/GuessNum_8051.png
