@@ -41,7 +41,7 @@ site:
   description: "This is a collection of my awesome GitHub projects."
   show_picture: true
   picture_path: ""
-  theme: "light"
+  theme: "dark"
   site_icon: "assets/doc_img/RepoGallery-light.png"
 
 repos:
