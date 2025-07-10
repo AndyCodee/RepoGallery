@@ -51,7 +51,7 @@ repos:
     key: "stars"
     descending: true
   use_custom_image: true
-  random_image: true
+  random_image: false
   random_image_theme: "Minimal"
   exclude:
     - "GITHUB_USERNAME.github.io"
