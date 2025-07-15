@@ -63,10 +63,6 @@ repos:
 footer:
   show: true
   icons:
-    - "stackoverflow"
-    - "reddit"
     - "linkedin"
   href:
-    - "#"
-    - "#"
-    - "#"
+    - "https://www.linkedin.com/in/andycodee/"
