@@ -64,5 +64,7 @@ footer:
   show: true
   icons:
     - "linkedin"
+    - "youtube"
   href:
     - "https://www.linkedin.com/in/andycodee/"
+    - "https://www.youtube.com/channel/UCApckQnxUYKoKndIYMnh6yA"
