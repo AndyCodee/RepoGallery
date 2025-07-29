@@ -56,7 +56,6 @@ repos:
   exclude:
     - "GITHUB_USERNAME.github.io"
     - "GITHUB_USERNAME"
-    - "2024_CV_FP"
   exclude_patterns:
     - "^test-.*"
 
